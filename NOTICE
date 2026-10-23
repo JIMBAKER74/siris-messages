@@ -1,0 +1,16 @@
+NOTICE
+
+Siris Messages is a fork of Simple SMS Messenger by Simple Mobile Tools
+(https://github.com/SimpleMobileTools/Simple-SMS-Messenger), copyright
+Tibor Kaputa and contributors, licensed under the GNU General Public License
+version 3. This fork keeps that license. See LICENSE.
+
+Bundled components and their origins:
+
+- lib-messages-common: a vendored copy of Simple-Commons by Simple Mobile Tools
+  (GPL-3), renamed into this project's package namespace.
+- android-smsmms: Jacob Klinker's android-smsmms library (Apache License 2.0).
+- android-lame: Naman Dwivedi (GPL-3), credited in-app.
+
+Changes by Siris Development, Inc. (James Baker) and contributor Avi (2024):
+rebranding, package namespace, and the product changes listed in README.md.
