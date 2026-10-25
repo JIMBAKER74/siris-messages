@@ -41,7 +41,7 @@ Make the switch to Siris Messages and experience messaging the way it should be 
 ## What this fork changes
 
 - Rebranded as Siris Messages; package namespace `com.siris.*`.
-- [LIST THE PRODUCT CHANGES YOU MADE — blocking by keyword, backup/export changes, privacy hardening, anything else. Delete this bracket.]
+- This repo includes integration of our messages SDK from Super Duper Messaging Manager, theming and other customizations. Download and explore it.
 - Contributor: Avi (2024), package rename and cleanup.
 
 Everything not listed above is upstream's work and remains under their copyright.
